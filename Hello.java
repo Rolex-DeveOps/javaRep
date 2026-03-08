@@ -3,6 +3,6 @@ public class Hello{
 
     public static void main(String[] args){
         System.out.println("Hello World");
-        System.out.println("Subtractionnn "+(67-41));
+        System.out.println("Addition "+(67+41));
     }
 }
